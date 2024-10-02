@@ -1,0 +1,13 @@
+body {
+    background-color: $back;
+    color: $text;
+    user-select: none;
+    font-family: 'Opensans';
+}
+
+.image {
+    width: 300px;
+    height: 500px;
+    background-size: cover;
+    background-image: url('img/Jerry.jpg');
+}
